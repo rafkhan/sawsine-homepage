@@ -14,6 +14,8 @@ h1 {
 
 p {
   line-height: 1.3em;
+  border-left: 2px solid white;
+  padding: 10px;
 }
 
 a {
@@ -22,7 +24,7 @@ a {
 }
 
 .page-container {
-  padding: 15px;
+  padding: 25px;
 }
 
 .header-container {
