@@ -12,10 +12,12 @@ h1 {
   font-weight: 400;
 }
 
-p {
+code {
+  font-size: 12px;
   line-height: 1.3em;
   border-left: 2px solid white;
   padding: 10px;
+  display: block;
 }
 
 a {
